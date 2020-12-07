@@ -1,6 +1,6 @@
 # ✌️ Awesome by Jérémy
 
-This is a curated list of awesome tools (solutions, platforms, api ...) that I came across during my workdays.
+This is a curated list of awesome tools (software, platform, api ...) that I came across during my workdays.
 
  My favorites have a 🌟
 
