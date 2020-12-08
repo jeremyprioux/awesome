@@ -21,8 +21,9 @@ Categories:
 
 
 ### Project Management
-- [Clubhouse 🌟](https://clubhouse.io/) - built by engineers for engineers. Nice free tier for solo-developer
-- [JIRA Software](https://www.atlassian.com/software/jira) - #1 for enterprise ready tool to manage agile teams
+- [tara.ai 🌟](http://tara.ai/) - recent project, free for now, nice UI and simple Sprint management
+- [Clubhouse](https://clubhouse.io/) - _built by engineers for engineers_. Seems ideal for medium size teams
+- [JIRA Software](https://www.atlassian.com/software/jira) - #1 enterprise ready tool to manage agile teams
 
 ### Productivity
 - [Notion 🌟](https://notion.so) - Absolutly awesome solution for everything related to written documentation (notes, tasks, wikis etc ...). Desktop apps available, nice free personal plan.
