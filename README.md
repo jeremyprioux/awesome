@@ -17,11 +17,13 @@ Categories:
 - [Collaboration](#collaboration)
 - [Architecture](#architecture)
 - [Web Frameworks](#web-frameworks)
+- [CMS](#cms)
+- [Emails Providers](#emails-provider)
 - [Illustrations and icons](#illustrations-icons-media)
 
 
 ### Project Management
-- [tara.ai 🌟](http://tara.ai/) - recent project, free for now, nice UI and simple Sprint management. AI features coming
+- [tara.ai 🌟](http://tara.ai/) - Recent project, free for now, nice UI and simple Sprint management. AI features coming
 - [Clubhouse](https://clubhouse.io/) - _built by engineers for engineers_. Seems ideal for medium size teams
 - [JIRA Software](https://www.atlassian.com/software/jira) - #1 enterprise ready tool to manage agile teams
 
@@ -64,6 +66,9 @@ Categories:
 
 ### CMS
 - [Netlify CMS](https://www.netlifycms.org/) - Easy and simple open source CMS made by Netlify team. Got start templates for Gatsby, Next.js, NuxtJS, Hugo..
+
+### Emails Providers
+- [Sendinblue](https://sendinblue.com/) - Free offer with 300 emails/day. Admin UI with visualization of sent email.
 
 
 ### Illustrations, icons, media
