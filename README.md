@@ -20,6 +20,7 @@ Categories:
 - [CMS](#cms)
 - [Emails Providers](#emails-provider)
 - [Illustrations and icons](#illustrations-icons-media)
+- [Accounting](#accounting)
 
 
 ### Project Management
@@ -75,6 +76,9 @@ Categories:
 - [Font awesome](https://fontawesome.com/icons?d=gallery) - extensive set of icons. Free/Pro versions available
 - [Carbon](https://carbon.now.sh/) - _Create and share beautiful images of your source code._
 
+### Accounting (France)
+- [Dougs](https://www.dougs.fr) - 69€ package is ideal for solo-entrepreneur
+- [Georges.tech](https://www.georges.tech/) - They got a new offering for SAS, SASU, etc.. a bit cheaper than Dougs (49€)
 
 <hr>
 
