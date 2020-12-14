@@ -117,8 +117,8 @@ Not tested in-depth but heard good about it and/or seems promising
 - [Chakra UI](https://chakra-ui.com/) - Nice and simple
 
 ### Roadmap, customer feedback
-- [https://www.harvestr.io/](https://www.harvestr.io/) - _Product management platform where all teams collaborate to make informed roadmap decisions based on customer feedback and data_
-- [https://www.upvoty.com/](https://www.upvoty.com/) - _Turn user feedback into actionable product optimizations_
+- [Harvestr](https://www.harvestr.io/) - _Product management platform where all teams collaborate to make informed roadmap decisions based on customer feedback and data_
+- [Upvoty](https://www.upvoty.com/) - _Turn user feedback into actionable product optimizations_
 
 ### Illustrations, icons
 - [Undraw](https://undraw.co/) - _Open-source illustrations for any idea you can imagine and create_
