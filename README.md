@@ -17,6 +17,7 @@ Categories:
 - [Collaboration](#collaboration)
 - [Architecture](#architecture)
 - [Web Frameworks](#web-frameworks)
+- [UI Components](#ui-components)
 - [CMS](#cms)
 - [Emails Providers](#emails-provider)
 - [Illustrations and icons](#illustrations-icons-media)
@@ -65,6 +66,9 @@ Categories:
 - [Next.js](https://nextjs.org/) - Same as Nuxt (or maybe the other way round !), for React. Made by Vercel people
 - [Gatsby](https://www.gatsbyjs.com/) - Open source for building front ends. Based on React, lots of plugins. Now with hosting option (Gatsby Cloud)
 
+### UI Components
+- [Ant Design](https://ant.design/components/overview) - Natively for React, but Vue.js version also available.
+
 ### CMS
 - [Netlify CMS](https://www.netlifycms.org/) - Easy and simple open source CMS made by Netlify team. Got start templates for Gatsby, Next.js, NuxtJS, Hugo..
 
@@ -78,7 +82,6 @@ Categories:
 
 ### Accounting (France)
 - [Dougs](https://www.dougs.fr) - 69€ package is ideal for solo-entrepreneur
-- [Georges.tech](https://www.georges.tech/) - They got a new offering for SAS, SASU, etc.. a bit cheaper than Dougs (49€)
 
 <hr>
 
@@ -110,6 +113,9 @@ Not tested in-depth but heard good about it and/or seems promising
 ### API development
 - [Dredd](https://github.com/apiaryio/dredd) - _Language-agnostic command-line tool for validating API description document against backend implementation of the API_
 
+### UI Components
+- [Chakra UI](https://chakra-ui.com/) - Nice and simple
+
 ### Roadmap, customer feedback
 - [https://www.harvestr.io/](https://www.harvestr.io/) - _Product management platform where all teams collaborate to make informed roadmap decisions based on customer feedback and data_
 - [https://www.upvoty.com/](https://www.upvoty.com/) - _Turn user feedback into actionable product optimizations_
@@ -130,3 +136,6 @@ Not tested in-depth but heard good about it and/or seems promising
 ### Resume builders
 - [Standard Resume](https://standardresume.co/)
 - [Resoume](https://resoume.com/)
+
+### Accounting (France)
+- [Georges.tech](https://www.georges.tech/) - They got a new offering for SAS, SASU, etc.. a bit cheaper than Dougs (49€)
