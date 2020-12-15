@@ -109,9 +109,13 @@ Not tested in-depth but heard good about it and/or seems promising
 ### Github Actions
 - [Automated Lightouse score with Vercel](https://dev.to/oskarahl/automated-lighthouse-score-on-your-pr-with-vercel-and-github-actions-2ng2) - Bot that produces Google Lighthouse report
 - [Deploy AWS Lambda](https://github.com/AsifShaafi/aws_lambda_github_pipeline/blob/master/.github/workflows/aws_lambda_deploy.yaml) - Deploy pipeline using Serverless Framework
+- [Run Github Actions locally](https://github.com/nektos/act)
 
 ### API development
 - [Dredd](https://github.com/apiaryio/dredd) - _Language-agnostic command-line tool for validating API description document against backend implementation of the API_
+
+### Project Scaffolding
+- [ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template project for setting up a TypeScript monorepo, with Lerna
 
 ### UI Components
 - [Chakra UI](https://chakra-ui.com/) - Nice and simple
