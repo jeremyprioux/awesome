@@ -25,7 +25,7 @@ Categories:
 
 
 ### Project Management
-- [tara.ai 🌟](http://tara.ai/) - Recent project, free for now, nice UI and simple Sprint management. AI features coming
+- [tara.ai 🌟](http://tara.ai/) - Recent project, free for now, nice UI and simple Sprint management. Not a lot of features at the moment (AI features coming)
 - [Clubhouse](https://clubhouse.io/) - _built by engineers for engineers_. Seems ideal for medium size teams
 - [JIRA Software](https://www.atlassian.com/software/jira) - #1 enterprise ready tool to manage agile teams
 
