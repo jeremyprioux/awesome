@@ -74,6 +74,7 @@ Categories:
 
 ### Emails Providers
 - [Sendinblue](https://sendinblue.com/) - Free offer with 300 emails/day. Admin UI with visualization of sent email.
+- [Mailtrap 🌟](https://mailtrap.io/) - SMTP mockup for your dev and staging environements
 
 
 ### Illustrations, icons, media
