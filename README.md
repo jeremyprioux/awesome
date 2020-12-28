@@ -25,7 +25,7 @@ Categories:
 
 
 ### Project Management
-- [tara.ai 🌟](http://tara.ai/) - Recent project, free for now, nice UI and simple Sprint management. Not a lot of features at the moment (AI features coming)
+- [tara.ai](http://tara.ai/) - Recent project, free for now, nice UI and simple Sprint management. Not a lot of features at the moment, but will improve over time (AI features coming)
 - [Clubhouse](https://clubhouse.io/) - _built by engineers for engineers_. Seems ideal for medium size teams
 - [JIRA Software](https://www.atlassian.com/software/jira) - #1 enterprise ready tool to manage agile teams
 
@@ -111,6 +111,7 @@ Not tested in-depth but heard good about it and/or seems promising
 - [Automated Lightouse score with Vercel](https://dev.to/oskarahl/automated-lighthouse-score-on-your-pr-with-vercel-and-github-actions-2ng2) - Bot that produces Google Lighthouse report
 - [Deploy AWS Lambda](https://github.com/AsifShaafi/aws_lambda_github_pipeline/blob/master/.github/workflows/aws_lambda_deploy.yaml) - Deploy pipeline using Serverless Framework
 - [Run Github Actions locally](https://github.com/nektos/act)
+- [Next.js CI / CD on AWS](https://dev.to/dabit3/next-js-ci-cd-on-aws-with-github-actions-3502)
 
 ### API development
 - [Dredd](https://github.com/apiaryio/dredd) - _Language-agnostic command-line tool for validating API description document against backend implementation of the API_
